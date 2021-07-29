@@ -16,7 +16,11 @@ Processos:
 
 5: Enviar a planilha por e-mail. 
  
+# Diferencial:
 
+* Utilizado Validação de e-mail com expressão regular.
+
+# Observação:
 * APP desenvolvido dentro das normas da PEP8.
 * Python==3.9.6
 * Chromedriver versão 91 ( Já consta no projeto )
