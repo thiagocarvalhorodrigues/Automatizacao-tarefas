@@ -25,7 +25,7 @@ Processos:
 
 1 Baixe o projeto:
 
-git clone thiagocarvalhorodrigues
+git clone https://github.com/thiagocarvalhorodrigues/Automatizacao-tarefas.git
 
 2 Após baixar o projeto, acesse a pasta do mesmo e execute os comandos abaixo:
 * pip install -r requirements.txt
