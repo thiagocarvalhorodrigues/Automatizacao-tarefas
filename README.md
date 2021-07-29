@@ -11,8 +11,8 @@ Processos:
 
 4: Estrutura da planilha:
 
-4.1 Conter três colunas.
-4.2 Nome, Local, Descrição.
+* 4.1 Conter três colunas.
+* 4.2 Nome, Local, Descrição.
 
 5: Enviar a planilha por e-mail. 
  
