@@ -44,6 +44,14 @@ git clone https://github.com/thiagocarvalhorodrigues/Automatizacao-tarefas.git
 2 Após baixar o projeto, acesse a pasta do mesmo e execute os comandos abaixo:
 * pip install -r requirements.txt
 
+# LEMBRETE
+
+* Utilziar conta do gmail para estar enviado.
+* Ativar na sua conta, DISPOSITVO MENOS SEGURO.
+* Link: https://myaccount.google.com/lesssecureapps
+
+![image](https://user-images.githubusercontent.com/23345809/127560628-2c8ac5a7-4fd1-413d-bd0e-5b2e37b57ee8.png)
+![image](https://user-images.githubusercontent.com/23345809/127560659-b662761e-7c74-4831-a9c3-2382792d90f5.png)
 
 
 # Agradecimentos
