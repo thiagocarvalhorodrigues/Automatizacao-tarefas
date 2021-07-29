@@ -35,6 +35,9 @@ git clone https://github.com/thiagocarvalhorodrigues/Automatizacao-tarefas.git
 * O destinatários poder ser qualquer uma conta de e-mail ( irá chegar o e-mail tranquilamente )
 
 link: https://support.google.com/accounts/answer/6010255?hl=pt#zippy=%2Cse-a-op%C3%A7%C3%A3o-acesso-a-app-menos-seguro-estiver-ativada-para-sua-conta
+
+
+
 ![image](https://user-images.githubusercontent.com/23345809/127431277-1752f3e9-9722-4222-ba7f-1982facfdea7.png)
 ![image](https://user-images.githubusercontent.com/23345809/127431294-f94efe3d-a986-49b7-b8a4-bf395980a65a.png)
 
