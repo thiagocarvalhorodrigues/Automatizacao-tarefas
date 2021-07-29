@@ -22,8 +22,8 @@ class Email:
                 msg['Subject'] = "Vagas de TI abertas na CADMUS "
                 body = corpo_email
                 msg.attach(MIMEText(body, 'plain'))
-                filename = 'thiago.xlsx'
-                attachment = open('thiago.xlsx', 'rb')
+                filename = 'vagas.xlsx'
+                attachment = open('vagas.xlsx', 'rb')
                 part = MIMEBase('application', 'octet-stream')
                 part.set_payload((attachment).read())
                 encoders.encode_base64(part)
