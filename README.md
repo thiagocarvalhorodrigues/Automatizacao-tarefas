@@ -54,6 +54,14 @@ git clone https://github.com/thiagocarvalhorodrigues/Automatizacao-tarefas.git
 ![image](https://user-images.githubusercontent.com/23345809/127560659-b662761e-7c74-4831-a9c3-2382792d90f5.png)
 
 
+# Resultado
+
+![image](https://user-images.githubusercontent.com/23345809/127560752-c6ae01a8-f22e-41bc-b69a-6da7c7c66dc6.png)
+![image](https://user-images.githubusercontent.com/23345809/127560806-d098d5b7-7e34-4cb4-8774-fdf897a6a7c6.png)
+![image](https://user-images.githubusercontent.com/23345809/127560848-cebdea73-c644-4678-ba33-140e4f641a38.png)
+
+
+
 # Agradecimentos
  
  Venho agradecer por esse desafio, pois foi muito bacana entar desenvolvendo, espero que tenham gostado 
