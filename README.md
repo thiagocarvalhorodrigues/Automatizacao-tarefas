@@ -64,9 +64,8 @@ git clone https://github.com/thiagocarvalhorodrigues/Automatizacao-tarefas.git
 
 # Agradecimentos
  
- Venho agradecer por esse desafio, pois foi muito bacana entar desenvolvendo, espero que tenham gostado 
- e que possamos a vir a trabalhar juntos em breve.
- MUITO OBRIGADO.
+ Venho agradecer por esse desafio, pois foi muito satisfatório realizar.
+ Muito obrigado.
 
 
 
